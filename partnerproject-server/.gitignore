@@ -2,8 +2,8 @@
 
 # ignore top level files
 *.env
-*.eslintrc
-*.prettierrc
+#*.eslintrc
+#*.prettierrc
 
 # Compiled output
 /dist
