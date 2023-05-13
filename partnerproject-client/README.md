@@ -1,4 +1,4 @@
-# partnerproject-client VUE
+# partnerproject-client
 
 ## Project setup
 
